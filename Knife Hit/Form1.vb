@@ -2,6 +2,6 @@
     Private Sub BtnSettings_Click(sender As Object, e As EventArgs) Handles BtnSettings.Click
         Me.Hide()
         Settings.Show()
-        MessageBox.Show("banana")
+        MessageBox.Show("mega banana")
     End Sub
 End Class
